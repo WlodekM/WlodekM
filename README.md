@@ -1,27 +1,14 @@
 <style>
-  
-     ul {
-        border-left: 5px solid rgb(165, 165, 165);
-        background-color: #161616;
-        list-style-type: none;
-        padding: 10px 20px;
-    }
-  
+     p { border-left: 5px solid rgb(165, 165, 165); background-color: #161616; list-style-type: none; padding: 10px 20px;}
 </style>
 # WlodekM
 
 ## About me
-<ul>
-  <li>
+    <p>
     I'm WlodekM also known as Fir
-  </li>
-  <li>
     I'm 12 
-  </li>
-  <li>
     I live in Ukraine
-  </li>
-</ul>
+    </p>
 
 ## I know 
 
