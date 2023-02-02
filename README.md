@@ -1,12 +1,17 @@
 # WlodekM
 
 ## About me
->
-> I'm WlodekM also known as Fir
-> 
-> I'm 12 
-> 
-> I live in Ukraine
+<ul>
+  <li>
+    I'm WlodekM also known as Fir
+  </li>
+  <li>
+    I'm 12 
+  </li>
+  <li>
+    I live in Ukraine
+  </li>
+</ul>
 
 ## I know 
 
