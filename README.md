@@ -7,6 +7,8 @@
 > I'm 12 
 > 
 > I live in Ukraine
+>
+> I know scratch
 
 ## I’m currently working on
 >
