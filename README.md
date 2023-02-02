@@ -1,49 +1,42 @@
+<!--
 
 # WlodekM
 
 ## About me
 
-  I'm WlodekM also known as Fir<br>
-  I'm 12<br>
-  I live in Ukraine<br>
+ I'm WlodekM also known as Fir<br>
+ I'm 12<br>
+ I live in Ukraine<br>
 
 
 ## I know 
 
-> Scratch
->
-> Scratch for discord (kinda)
->
-> Python (kinda)
-> 
-> MarkDown
+Scratch<br>
+Scratch for discord (kinda)<br>
+Python (kinda)<br>
+MarkDown
 
 
 ## I’m currently working on
->
-> [WlodekM.Github.io](https://wlodekm.github.io/development) (my website)
-> 
-> Supra cow 2 
-> 
-> WL fsh
+[WlodekM.Github.io](https://wlodekm.github.io/development) (my website)<br>
+Supra cow 2 <br>
+WL fsh<br>
 
 ## I’m currently learning
->
-> Python (pygame)
-> 
-> JS (Discord.JS and HTML DOM)
-> 
-> Scratch for discord
+
+Python (pygame)<br>
+JS (Discord.JS and HTML DOM)<br>
+Scratch for discord<br>
 
 ## Pronouns
->
-> He/Him
 
-##
-```
-Fun fact: you die if you try to learn Discord.JS for 3 days
-```
-<!--
+He/Him
+
+
+
+``Fun fact: you die if you try to learn Discord.JS for 3 days``
+
+
 **WlodekM/WlodekM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -57,3 +50,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
