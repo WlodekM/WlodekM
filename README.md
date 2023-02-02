@@ -1,8 +1,16 @@
 # WlodekM
 
+## About me
+>
+> I'm WlodekM also known as Fir
+> 
+> I'm 12 
+> 
+> I live in Ukraine
+
 ## I’m currently working on
 >
-> WlodekM.Github.io (my website)
+> (WlodekM.Github.io)[WlodekM.Github.io] (my website)
 > 
 > Supra cow 2 
 > 
