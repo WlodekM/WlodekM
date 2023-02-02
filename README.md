@@ -7,8 +7,17 @@
 > I'm 12 
 > 
 > I live in Ukraine
+
+## I know 
+
+> Scratch
 >
-> I know scratch
+> Scratch for discord (kinda)
+>
+> Python (kinda)
+> 
+> MarkDown
+
 
 ## I’m currently working on
 >
