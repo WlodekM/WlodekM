@@ -10,7 +10,7 @@
 
 ## I’m currently working on
 >
-> (WlodekM.Github.io)[https://wlodekm.github.io/development] (my website)
+> [WlodekM.Github.io](https://wlodekm.github.io/development) (my website)
 > 
 > Supra cow 2 
 > 
