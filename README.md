@@ -3,13 +3,17 @@
 ## I’m currently working on
 >
 > WlodekM.Github.io (my website)
+> 
 > Supra cow 2 
+> 
 > WL fsh
 
 ## I’m currently learning
 >
 > Python (pygame)
+> 
 > JS (Discord.JS and HTML DOM)
+> 
 > Scratch for discord
 
 ## Pronouns
