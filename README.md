@@ -1,11 +1,31 @@
-### Hi there 👋
+# WlodekM
 
+## I’m currently working on
+>
+> WlodekM.Github.io (my website)
+> Supra cow 2 
+> WL fsh
+
+## I’m currently learning
+>
+> Python (pygame)
+> JS (Discord.JS and HTML DOM)
+> Scratch for discord
+
+## Pronouns
+>
+> He/Him
+
+##
+```
+Fun fact: you die if you try to learn Discord.JS for 3 days
+```
 <!--
 **WlodekM/WlodekM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+~~- 🔭 I’m currently working on ...~~
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
