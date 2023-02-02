@@ -1,3 +1,13 @@
+<style>
+  
+     ul {
+        border-left: 5px solid rgb(165, 165, 165);
+        background-color: #161616;
+        list-style-type: none;
+        padding: 10px 20px;
+    }
+  
+</style>
 # WlodekM
 
 ## About me
