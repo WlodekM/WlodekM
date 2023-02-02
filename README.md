@@ -5,9 +5,9 @@
 
 ## About me
   <p>
-  I'm WlodekM also known as Fir
-  I'm 12 
-  I live in Ukraine
+  I'm WlodekM also known as Fir<br>
+  I'm 12<br>
+  I live in Ukraine<br>
   </p>
 
 ## I know 
