@@ -11,7 +11,7 @@ null
 
 <!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WlodekM) -->
 ## Skills
-![Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,md,bootstrap,svelte,cloudflare,replit,vscode,express)
+![Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,bootstrap,svelte,express)
 
 # Other
 - [My website](https://wlodekm.github.io/)
