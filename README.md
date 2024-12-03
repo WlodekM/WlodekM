@@ -1,8 +1,7 @@
 # About
 Hi, i'm WlodekM.
 
-I'm a webdev from ukraine, but i also do stuff in node sometimes
-
+Silly JS dev from Ukraine.
 
 # Stats
 ![WlodekM's GitHub stats](https://github-readme-stats.vercel.app/api?username=WlodekM&show_icons=true&include_all_commits=true&theme=transparent)
