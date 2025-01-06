@@ -1,7 +1,7 @@
 # About
 Hi, i'm WlodekM.
 
-Silly JS dev from Ukraine.
+I'm supposedly a silly JS dev from Ukraine.
 
 # Stats
 ![WlodekM's GitHub stats](https://github-readme-stats.vercel.app/api?username=WlodekM&show_icons=true&include_all_commits=true&theme=transparent)
