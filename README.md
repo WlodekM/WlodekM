@@ -14,7 +14,7 @@ I'm supposedly a silly JS dev from Ukraine.
 
 <!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WlodekM) -->
 ## Skills
-![Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,bootstrap,svelte,express)
+![Skills](https://skillicons.dev/icons?i=js,ts,deno,nodejs,c,html,css,dotnet,svelte,express)
 
 # Other
 - [My website](https://wlodekm.nekoweb.org/)
